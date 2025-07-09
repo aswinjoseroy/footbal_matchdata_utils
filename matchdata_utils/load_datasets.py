@@ -1,7 +1,6 @@
 """
 TASK 01: Loading and storing datasets.
 
-Club Brugge - Data Engineer Technical Assignment
 
 """
 
